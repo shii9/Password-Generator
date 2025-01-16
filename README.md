@@ -1,0 +1,1 @@
+This secure random password generator is a Python-based script designed to create strong, cryptographically secure passwords. It is highly customizable, allowing developers to tailor the password to meet specific security requirements, such as length, character complexity, and inclusion/exclusion of special characters.
